@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use NotebookLM in your research, please cite it as below."
+authors:
+  - family-names: "Azad"
+    given-names: "Kumar"
+    orcid: "https://orcid.org/0000-0003-4672-5840"
+title: "NotebookLM: Local-First Note-Taking Utility with AI Summarization"
+description: "A lightweight, local-first note-taking utility with simple AI-powered summarization using TF-IDF methods."
+repository-code: "https://github.com/KrAzad0/NotebookLM"
+keywords:
+  - "note-taking"
+  - "local-first"
+  - "summarization"
+  - "python utility"
+license: "MIT"
